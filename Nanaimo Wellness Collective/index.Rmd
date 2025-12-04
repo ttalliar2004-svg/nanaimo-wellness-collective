@@ -1,0 +1,37 @@
+---
+title: "Home"
+output: html_document
+---
+
+# Nanaimo Wellness Collective
+<!-- COVER IMAGE -->
+<div style="margin: 25px 0;">
+  <img src="images/cover.jpeg"
+       alt="Wellness cover photo"
+       style="width:100%; max-height:450px; object-fit:cover; border-radius:12px; box-shadow:0 4px 20px rgba(0,0,0,0.15);" />
+</div>
+**Rehabilitate · Restore · Recharge**
+
+Nanaimo Wellness Collective is a boutique wellness studio in Nanaimo, BC, offering yoga, Pilates, and restorative movement for people who want to feel stronger, calmer, and more grounded in their daily lives.
+
+We specialize in:
+
+- Small, supportive classes for all experience levels  
+- Trauma-informed, body-neutral instruction  
+- Simple nervous-system regulation tools clients can use outside the studio  
+
+## Why Choose Us
+
+- **Holistic focus:** We consider mental, emotional, and physical well-being.  
+- **Accessible movement:** Every class includes options for different bodies and energy levels.  
+- **Community-based:** We partner with local organizations to make wellness more accessible to students and working professionals.
+
+## How It Works
+
+1. Browse our [Services](about.html) to find the class or program that fits your needs.  
+2. Get to know our [Team](team.html) and their areas of expertise.  
+3. Join a weekly class or book a custom program for your group or workplace.
+
+[Explore our services](about.html){.btn .btn-primary}  
+
+[Meet the team](team.html){.btn .btn-default}

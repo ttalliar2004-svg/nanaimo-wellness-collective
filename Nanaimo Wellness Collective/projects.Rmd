@@ -1,0 +1,105 @@
+---
+title: "Programs & Case Studies"
+output: html_document
+---
+
+
+Although Nanaimo Wellness Collective is a fictional studio, the following case studies represent realistic examples of how we could support different clients.
+
+## 1. Exam Season Reset – Student Wellness Series
+
+<div style="display:flex; gap:25px; align-items:flex-start; margin:25px 0;">
+
+<div style="flex:1;">
+
+**Client type:** Local university student wellness office  
+**Goal:** Reduce exam-related stress, improve sleep, and offer healthy coping tools.
+
+**Program design:**
+
+- 4-week series of 60-minute Gentle Flow classes  
+- Short guided meditation recordings for home use  
+- Printable “study break stretch” poster shared in residence halls  
+
+**Outcomes:**
+
+- 92% of students reported feeling less stressed after class  
+- Many students requested that the series run during midterms as well  
+- The wellness office added the program to its ongoing student support offerings  
+
+</div>
+
+<div style="flex:1; text-align:center;">
+
+<img src="images/uni.student.jpeg"
+     style="width:100%; max-width:380px; border-radius:12px; box-shadow:0 4px 15px rgba(0,0,0,0.15);">
+
+<p style="font-style:italic; font-size:14px; margin-top:10px;">
+University students often experience academic stress — our programs support healthier coping.
+</p>
+
+</div>
+
+</div>
+
+## 2. Desk to Decompress – Corporate Wellness Workshop
+
+<div style="display:flex; gap:25px; align-items:flex-start; margin:25px 0;">
+
+<div style="flex:1;">
+
+**Client type:** Marketing agency with desk-based staff  
+**Goal:** Decrease discomfort from prolonged sitting and support employee well-being.
+
+**Program design:**  
+- One 90-minute on-site workshop at the client’s office  
+- Education on posture, ergonomics, and breathwork  
+- A short desk-friendly movement sequence requiring no special equipment  
+
+**Outcomes:**  
+- Employees reported increased body awareness and simple tools they could apply during the workday  
+- HR received positive feedback and booked quarterly follow-up workshops  
+
+</div>
+
+<div style="flex:1; text-align:center;">
+<img src="images/desk.jpeg"
+     style="width:100%; max-width:400px; border-radius:12px; box-shadow:0 4px 15px rgba(0,0,0,0.15);">
+<p style="font-style:italic; font-size:14px; margin-top:10px;">
+  Many employees experience pain and tension from long hours at a desk — this workshop teaches simple tools to ease discomfort.
+</p>
+</div>
+
+</div>
+## 3. Nervous System Reset – Small Group Series
+
+<div style="display:flex; gap:25px; align-items:flex-start; margin:25px 0;">
+
+<!-- LEFT COLUMN: TEXT -->
+<div style="flex:1;">
+
+**Client type:** Small group of friends navigating burnout and life transitions  
+**Goal:** Create a regular, supportive space for gentle movement and nervous-system regulation.
+
+**Program design:**  
+- 6 weeks of private small-group classes in the studio  
+- Combination of restorative yoga, supported stretching, and guided journalling prompts  
+- Optional at-home breathing practices between sessions  
+
+**Outcomes:**  
+- Clients reported feeling more grounded and connected  
+- Improved sleep and reduced stress across the group  
+- Several participants continued weekly sessions afterward  
+
+</div>
+
+<!-- RIGHT COLUMN: IMAGE -->
+<div style="flex:1; text-align:center;">
+<img src="images/friends.jpeg"
+     style="width:100%; max-width:400px; border-radius:12px; box-shadow:0 4px 15px rgba(0,0,0,0.15);">
+<p style="font-style:italic; font-size:14px; margin-top:10px;">
+  A supportive small-group environment helps clients reconnect, reset, and regulate their nervous systems.
+</p>
+</div>
+
+</div>

@@ -1,0 +1,52 @@
+---
+title: "Contact"
+output: html_document
+---
+
+
+We’d love to hear from you. Whether you have questions about classes, private sessions, or custom programs, Nanaimo Wellness Collective is here to help.
+
+## Studio Location
+
+Nanaimo Wellness Collective  
+Fictional Address: 123 Harbourview Lane  
+Nanaimo, BC V9R 1A1  
+
+We are located a short walk from the waterfront and major bus routes.
+
+## Hours
+
+- **Monday:** 8:00 am – 6:00 pm  
+- **Tuesday:** 8:00 am – 6:00 pm  
+- **Wednesday:** Closed  
+- **Thursday:** 8:00 am – 6:30 pm  
+- **Friday:** 8:00 am – 7:00 pm  
+- **Saturday:** 9:00 am – 7:00 pm  
+- **Sunday:** Closed  
+
+
+## Get in Touch
+
+- **Email:** hello@nanaimowellnesscollective.ca  
+- **Phone:** (250) 555-0123  
+- **Instagram:** @nanaimowellnesscollective  
+
+If you are unsure which class or program is the best fit, send us a short message about your goals and any injuries or limitations. We’ll recommend a gentle starting point.
+
+## Inquiry Form 
+
+Name: ________________________________  
+
+Email: ________________________________  
+
+Preferred contact (email / phone): __________________  
+
+What are you hoping to work on?  
+____________________________________________________  
+____________________________________________________  
+
+</div>
+
+<div class="pretty-quote">
+"Your body deserves care, even on the days you feel least deserving.”
+</div>

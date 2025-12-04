@@ -1,0 +1,23 @@
+name: "nanaimo-wellness-collective"
+output_dir: "docs"
+
+navbar:
+  title: "Nanaimo Wellness Collective"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Services"
+      href: about.html
+    - text: "Team"
+      href: team.html
+    - text: "Programs"
+      href: projects.html
+    - text: "Contact"
+      href: contact.html
+
+
+output:
+  html_document:
+    theme: flatly
+    toc: false
+  

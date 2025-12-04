@@ -1,0 +1,44 @@
+---
+title: "Our Team"
+output: html_document
+---
+
+
+## Tallia Rogers – Founder & Lead Instructor
+
+Tallia is a certified yoga and Pilates instructor who founded Nanaimo Wellness Collective to create a calm, non-judgmental space for movement. She combines a background in dance with training in trauma-informed cueing and body-neutral language.
+
+- **Role:** Studio owner, program design, community partnerships  
+- **Focus areas:** gentle strength, mobility, and nervous-system regulation  
+- **Training:** 200-hour yoga teacher training, mat Pilates certification, workshops in trauma-informed practice  
+
+---
+
+## Calla Mountain – Yoga & Meditation Instructor
+
+Maya specializes in grounding, breath-focused classes that support mental health and stress reduction. Her teaching style is soothing, clear, and accessible for beginners.
+
+- **Role:** Gentle Morning Flow and Evening Restore & Meditation  
+- **Focus areas:** mindfulness, breathwork, restorative poses  
+- **Training:** 300-hour advanced yoga training with specialization in restorative yoga  
+
+---
+
+## Rachelle Barid – Pilates & Functional Movement Instructor
+
+Jordan brings a functional-movement lens to Pilates, emphasizing joint stability, posture, and everyday strength. He offers clear options so clients can choose what feels best in their bodies.
+
+- **Role:** Strength & Stability (Mat Pilates) and private sessions  
+- **Focus areas:** posture, core strength, accessible conditioning  
+- **Training:** Certified Pilates instructor, background in kinesiology  
+
+---
+
+## Shared Values
+
+As a team, we are committed to:
+
+- **Inclusivity:** welcoming all bodies, ages, and experience levels  
+- **Compassion:** encouraging progress without pressure or shame  
+- **Education:** explaining why we choose certain movements or practices  
+- **Collaboration:** working with local practitioners and businesses to support holistic wellness in Nanaimo  
